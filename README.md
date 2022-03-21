@@ -1,6 +1,5 @@
 # salud_mental_22
-Proyecto Storytelling (plantilla): Nombre del Equipo:
-
+Proyecto Storytelling (plantilla): Nombre del Equipo: ALBA MARÍA LINARES MORENO
 Proyecto (código):
 
 Resumen Personaje
