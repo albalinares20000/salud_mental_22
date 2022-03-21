@@ -2,7 +2,7 @@
 
 # Proyecto Storytelling (template): 
 
-Nombre del Equipo: 
+Nombre del equipo: ALBA MARÍA LINARES MORENO
 
 Proyecto (código): 
 
