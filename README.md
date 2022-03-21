@@ -1,10 +1,10 @@
-# salud_mental_22
-Proyecto Storytelling (plantilla): Nombre del Equipo: ALBA MARÍA LINARES MORENO
+PROYECTO STORYTELLING  (PLANTILLA): 
+Nombre del Equipo: ALBA MARÍA LINARES MORENO
 Proyecto (código):
 
-Resumen Personaje
+RESUMEN PERSONAJE: 
 
-Nombre:
+Nombre: ROCÍO 
 
 Historia Contexto Conflicto Productos Personaje: (img personaje y enlace a interactivo)
 
@@ -14,7 +14,7 @@ Narrativa: (enlace)
 
 Autores:
 
-👨nombre 👩nombre 👩nombre Febrero, 202X
+👩ALBA MARÍA LINARES MORENO,  febrero 2022
 
 Proyecto dentro de la serie HRUN Story. Proyectos seleccionados de 2021 / 2020 / 2019 / 2018
 
